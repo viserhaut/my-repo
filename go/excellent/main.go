@@ -2,8 +2,8 @@ package main
 
 func EvenOrOdd(number int) string {
 	if number%2 == 0 {
-		return "even" # even
+		return "even"
 	} else {
-		return "odd" # odd
+		return "odd"
 	}
 }
